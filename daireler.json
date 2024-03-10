@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1,
+    "daireIsmi": "A",
+    "odaSayisi": 5,
+    "odas": [
+      {
+        "id": 1,
+        "odaNumarasi": "1",
+        "daireId": 1,
+        "kiracis": [
+          {
+            "id": 0,
+            "ad": "dasdvc",
+            "soyad": "vcvc",
+            "dogumTarihi": "2024-03-07T07:12:43.3805573+01:00",
+            "girisTarihi": "2024-03-07T07:12:43.3805606+01:00",
+            "cikisTarihi": null,
+            "daireIsmi": "A",
+            "odaNumarasi": "1"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "odaNumarasi": "2",
+        "daireId": 1,
+        "kiracis": [
+          {
+            "id": 0,
+            "ad": "eqwqew",
+            "soyad": "eqweqw",
+            "dogumTarihi": "2024-03-07T07:12:30.6612096+01:00",
+            "girisTarihi": "2024-03-07T07:12:30.6612157+01:00",
+            "cikisTarihi": null,
+            "daireIsmi": "A",
+            "odaNumarasi": "2"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "odaNumarasi": "3",
+        "daireId": 1,
+        "kiracis": [
+          {
+            "id": 0,
+            "ad": "eqweqw",
+            "soyad": "rewerwwr",
+            "dogumTarihi": "2024-01-01T00:00:00",
+            "girisTarihi": "2024-03-08T00:00:00",
+            "cikisTarihi": null,
+            "daireIsmi": "A",
+            "odaNumarasi": "3"
+          },
+          {
+            "id": 0,
+            "ad": "gfdgfd",
+            "soyad": "gfdgf",
+            "dogumTarihi": "2024-03-07T05:33:49.5260165+01:00",
+            "girisTarihi": "2024-03-07T05:33:49.526018+01:00",
+            "cikisTarihi": null,
+            "daireIsmi": "A",
+            "odaNumarasi": "3"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "odaNumarasi": "4",
+        "daireId": 1,
+        "kiracis": []
+      },
+      {
+        "id": 5,
+        "odaNumarasi": "5",
+        "daireId": 1,
+        "kiracis": []
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "daireIsmi": "B",
+    "odaSayisi": 3,
+    "odas": [
+      {
+        "id": 6,
+        "odaNumarasi": "1",
+        "daireId": 2,
+        "kiracis": [
+          {
+            "id": 0,
+            "ad": "zrttz",
+            "soyad": "zrzzr",
+            "dogumTarihi": "2024-03-13T00:00:00",
+            "girisTarihi": "2024-03-07T00:00:00",
+            "cikisTarihi": null,
+            "daireIsmi": "B",
+            "odaNumarasi": "1"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "odaNumarasi": "2",
+        "daireId": 2,
+        "kiracis": []
+      },
+      {
+        "id": 8,
+        "odaNumarasi": "3",
+        "daireId": 2,
+        "kiracis": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "daireIsmi": "C",
+    "odaSayisi": 4,
+    "odas": [
+      {
+        "id": 9,
+        "odaNumarasi": "1",
+        "daireId": 3,
+        "kiracis": []
+      },
+      {
+        "id": 10,
+        "odaNumarasi": "2",
+        "daireId": 3,
+        "kiracis": []
+      },
+      {
+        "id": 11,
+        "odaNumarasi": "3",
+        "daireId": 3,
+        "kiracis": []
+      },
+      {
+        "id": 12,
+        "odaNumarasi": "4",
+        "daireId": 3,
+        "kiracis": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "daireIsmi": "M",
+    "odaSayisi": 1,
+    "odas": [
+      {
+        "id": 13,
+        "odaNumarasi": "1",
+        "daireId": 4,
+        "kiracis": []
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "daireIsmi": "K",
+    "odaSayisi": 2,
+    "odas": [
+      {
+        "id": 14,
+        "odaNumarasi": "1",
+        "daireId": 5,
+        "kiracis": []
+      },
+      {
+        "id": 15,
+        "odaNumarasi": "2",
+        "daireId": 5,
+        "kiracis": []
+      }
+    ]
+  }
+]
