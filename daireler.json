@@ -8,6 +8,7 @@
         "id": 1,
         "odaNumarasi": "1",
         "daireId": 1,
+        "odaKapasitesi": 2,
         "kiracis": [
           {
             "id": 0,
