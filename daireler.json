@@ -26,6 +26,7 @@
         "id": 2,
         "odaNumarasi": "2",
         "daireId": 1,
+        "odaKapasitesi": 2,
         "kiracis": [
           {
             "id": 0,
@@ -43,6 +44,7 @@
         "id": 3,
         "odaNumarasi": "3",
         "daireId": 1,
+        "odaKapasitesi": 1,
         "kiracis": [
           {
             "id": 0,
@@ -70,12 +72,14 @@
         "id": 4,
         "odaNumarasi": "4",
         "daireId": 1,
+        "odaKapasitesi": 1,
         "kiracis": []
       },
       {
         "id": 5,
         "odaNumarasi": "5",
         "daireId": 1,
+        "odaKapasitesi": 2,
         "kiracis": []
       }
     ]
@@ -89,6 +93,7 @@
         "id": 6,
         "odaNumarasi": "1",
         "daireId": 2,
+        "odaKapasitesi": 2,
         "kiracis": [
           {
             "id": 0,
@@ -106,12 +111,14 @@
         "id": 7,
         "odaNumarasi": "2",
         "daireId": 2,
+        "odaKapasitesi": 2,
         "kiracis": []
       },
       {
         "id": 8,
         "odaNumarasi": "3",
         "daireId": 2,
+        "odaKapasitesi": 2,
         "kiracis": []
       }
     ]
@@ -125,24 +132,28 @@
         "id": 9,
         "odaNumarasi": "1",
         "daireId": 3,
+        "odaKapasitesi": 2,
         "kiracis": []
       },
       {
         "id": 10,
         "odaNumarasi": "2",
         "daireId": 3,
+        "odaKapasitesi": 1,
         "kiracis": []
       },
       {
         "id": 11,
         "odaNumarasi": "3",
         "daireId": 3,
+        "odaKapasitesi": 2,
         "kiracis": []
       },
       {
         "id": 12,
         "odaNumarasi": "4",
         "daireId": 3,
+        "odaKapasitesi": 2,
         "kiracis": []
       }
     ]
@@ -156,6 +167,7 @@
         "id": 13,
         "odaNumarasi": "1",
         "daireId": 4,
+        "odaKapasitesi": 2,
         "kiracis": []
       }
     ]
@@ -169,12 +181,14 @@
         "id": 14,
         "odaNumarasi": "1",
         "daireId": 5,
+        "odaKapasitesi": 2,
         "kiracis": []
       },
       {
         "id": 15,
         "odaNumarasi": "2",
         "daireId": 5,
+        "odaKapasitesi": 2,
         "kiracis": []
       }
     ]
