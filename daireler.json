@@ -9,7 +9,19 @@
         "odaNumarasi": "1",
         "daireId": 1,
         "odaKapasitesi": 2,
-        "kiracis": []
+        "kiracis": [
+        {
+            "id": 0,
+            "ad": "dasdvc",
+            "soyad": "vcvc",
+            "dogumTarihi": "2024-03-07T07:12:43.3805573+01:00",
+            "girisTarihi": "2024-03-07T07:12:43.3805606+01:00",
+            "cikisTarihi": null,
+            "daireIsmi": "A",
+            "odaNumarasi": "1"
+          }
+          
+        ]
       },
       {
         "id": 2,
